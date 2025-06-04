@@ -10,7 +10,7 @@ const menuItems = [
     title: "Croissant with Berries",
     subtitle: "Freshly baked",
     rating: 5,
-    price: "$3.50",
+    price: 3.50,
     badge: null,
   },
   {
@@ -18,7 +18,7 @@ const menuItems = [
     title: "Nisano Britoice",
     subtitle: "Danno Touker",
     rating: 4,
-    price: "$4.50",
+    price: 4.50,
     badge: null,
   },
   {
@@ -26,7 +26,7 @@ const menuItems = [
     title: "Musiano Tartoe",
     subtitle: "Estetoro Nape",
     rating: 4,
-    price: "$3.80",
+    price: 3.80,
     badge: null,
   },
   {
@@ -34,7 +34,7 @@ const menuItems = [
     title: "Benco Giana",
     subtitle: "Dunance-Kep",
     rating: 5,
-    price: "$6.00",
+    price: 6.00,
     badge: "95", // Bisa berarti skor atau item populer
   },
   // Menambahkan 16 item baru
@@ -43,7 +43,7 @@ const menuItems = [
     title: "Red Velvet Delight",
     subtitle: "Smooth & Creamy",
     rating: 5,
-    price: "$5.20",
+    price: 5.20,
     badge: "New",
   },
   {
@@ -51,7 +51,7 @@ const menuItems = [
     title: "Choco Lava Cake",
     subtitle: "Warm & Gooey",
     rating: 4,
-    price: "$4.75",
+    price: 4.75,
     badge: null,
   },
   {
@@ -59,7 +59,7 @@ const menuItems = [
     title: "Blueberry Muffin",
     subtitle: "Soft & Fluffy",
     rating: 4,
-    price: "$2.90",
+    price: 2.90,
     badge: null,
   },
   {
@@ -67,7 +67,7 @@ const menuItems = [
     title: "Caramel Macchiato",
     subtitle: "Rich Espresso Blend",
     rating: 5,
-    price: "$5.50",
+    price: 5.50,
     badge: "Popular",
   },
   {
@@ -75,7 +75,7 @@ const menuItems = [
     title: "Strawberry Shortcake",
     subtitle: "Classic Favorite",
     rating: 4,
-    price: "$4.90",
+    price: 4.90,
     badge: null,
   },
   {
@@ -83,7 +83,7 @@ const menuItems = [
     title: "Iced Lemon Tea",
     subtitle: "Refreshing & Cool",
     rating: 3,
-    price: "$2.50",
+    price: 2.50,
     badge: null,
   },
   {
@@ -91,7 +91,7 @@ const menuItems = [
     title: "Vanilla Bean Frappe",
     subtitle: "Sweet & Chilled",
     rating: 5,
-    price: "$5.80",
+    price: 5.80,
     badge: "Special",
   },
   {
@@ -99,7 +99,7 @@ const menuItems = [
     title: "Espresso Con Panna",
     subtitle: "Bold with Cream",
     rating: 4,
-    price: "$3.20",
+    price: 3.20,
     badge: null,
   },
   {
@@ -107,7 +107,7 @@ const menuItems = [
     title: "Apple Pie Slice",
     subtitle: "Warm & Cinnamon",
     rating: 4,
-    price: "$4.00",
+    price: 4.00,
     badge: "Homemade",
   },
   {
@@ -115,7 +115,7 @@ const menuItems = [
     title: "Matcha Latte",
     subtitle: "Earthy & Smooth",
     rating: 5,
-    price: "$5.10",
+    price: 5.10,
     badge: null,
   },
   {
@@ -123,7 +123,7 @@ const menuItems = [
     title: "Oatmeal Raisin Cookie",
     subtitle: "Chewy & Sweet",
     rating: 3,
-    price: "$1.50",
+    price: 1.50,
     badge: null,
   },
   {
@@ -131,7 +131,7 @@ const menuItems = [
     title: "Dark Chocolate Mocha",
     subtitle: "Intense & Velvety",
     rating: 5,
-    price: "$5.75",
+    price: 5.75,
     badge: "Rich",
   },
   {
@@ -139,7 +139,7 @@ const menuItems = [
     title: "Lemon Poppy Seed Loaf",
     subtitle: "Zesty & Moist",
     rating: 4,
-    price: "$3.75",
+    price: 3.75,
     badge: null,
   },
   {
@@ -147,7 +147,7 @@ const menuItems = [
     title: "Affogato Classic",
     subtitle: "Espresso Over Ice Cream",
     rating: 5,
-    price: "$4.80",
+    price: 4.80,
     badge: "Dessert",
   },
   {
@@ -155,7 +155,7 @@ const menuItems = [
     title: "Pistachio Croissant",
     subtitle: "Nutty & Buttery",
     rating: 4,
-    price: "$4.20",
+    price: 4.20,
     badge: "Limited",
   },
   {
@@ -163,7 +163,7 @@ const menuItems = [
     title: "Cold Brew Concentrate",
     subtitle: "Smooth & Strong",
     rating: 5,
-    price: "$4.50",
+    price: 4.50,
     badge: null,
   },
 ];
